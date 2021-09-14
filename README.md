@@ -9,7 +9,7 @@ We use 60 monthly data of 54 economic variables from FRED and QUANDL. Companies 
 Binary boolean label. True = ticker outperforms S&P500TR in the following month.
 
 ## Model structure
-![model](https://user-images.githubusercontent.com/73049948/133261434-4c6717c0-585d-4f78-9153-756086083f7d.PNG){: width="100" height="100"}
+<img src="https://user-images.githubusercontent.com/73049948/133261434-4c6717c0-585d-4f78-9153-756086083f7d.PNG" width="300" >
 
 
 ## Backtest result
