@@ -1,9 +1,11 @@
 # transformer_model
 Transformer based prediction model ensembled with resnet model.
 ## Feature
-We use 60 monthly data of 54 economic variables from FRED and QUANDL. Companies that have entered top 500 in US stock market are collected.
+We use 60 monthly data of 54 coorporate fundamentals & macroeconomic variables from FRED and QUANDL. Therefore, each feature input is a 2d array with 60 X 54 size. 
 <br>
 ![feature](https://user-images.githubusercontent.com/73049948/133258875-519a9b93-c186-426d-97a8-8a3e04642d4b.png)
+<br>
+Companies that have entered top 500 in US stock market are collected.
 
 ## Label
 Binary boolean label. True = ticker outperforms S&P500TR in the following month.
