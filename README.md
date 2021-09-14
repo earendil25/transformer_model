@@ -11,7 +11,7 @@ Companies that have entered top 500 in US stock market are collected.
 Binary boolean label. True = ticker outperforms S&P500TR in the following month.
 
 ## Model structure
-<img src="https://user-images.githubusercontent.com/73049948/133261434-4c6717c0-585d-4f78-9153-756086083f7d.PNG" width="300" >
+<img src="https://user-images.githubusercontent.com/73049948/133264223-13a9b7cb-e435-4ae2-afcf-c5ab051d70b3.PNG" width="300" >
 
 
 ## Backtest result
